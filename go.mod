@@ -1,3 +1,3 @@
-module github.com/yhamacnu/webgo
+module github.com/yhamacnu/goweb
 
 go 1.13
